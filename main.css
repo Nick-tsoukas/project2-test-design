@@ -132,7 +132,7 @@ body, html {
   -webkit-animation: chevron-pulse 3s infinite cubic-bezier(0.4, 0, 0.2, 1);
   animation: chevron-pulse 3s infinite cubic-bezier(0.4, 0, 0.2, 1);
   fill: transparent;
-  stroke: black;
+  stroke: #E16860;
   stroke-width: 1px; }
 
 .tcon-svgchevron path.a1 {
