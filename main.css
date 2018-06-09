@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel+Decorative|Oswald|Pacifico');
+body, html {
+  height: 100vh;
+}
+.nav-wrapper {
+  /* padding-left: 20%;
+  padding-right: 20%; */
+  background: #E16860;
+}
+
+.hero_image {
+  height: 50vh;
+  background: #F4F2F2;
+}
+
+.woco_logo {
+  max-height: -webkit-fill-available;
+}
+
+.nav_links {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2em;
+}
+
+.background {
+  /* background-image: url('Heart Frame.H03.2k.png');
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat; */
+}
+
+.hero_logo {
+  max-height: 200px;
+}
+
+.tagline_font {
+  font-family: 'Pacifico', cursive;
+  color: #E16860;
+  font-size: 1.9em;
+}
+
+.tagline_font2 {
+  font-family: 'Pacifico', cursive;
+  color: white;
+  font-size: 1.9em;
+  text-align: center;
+}
+.center_text {
+  text-align: center;
+}
+
+.add_padding_top {
+  padding-top:15vh;
+}
+
+.full_height {
+  height: 44.9vh;
+}
+
+.my_red {
+  background-color: #E16860;
+}
+
+.my_gray {
+  background-color: white;
+}
+
+.gray_image {
+  background-image:url('womanInMountains-compressor.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 1;
+}
+
+.grid {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+.grid2 {
+  display: grid;
+  align-items: center;
+  justify-content: left;
+}
