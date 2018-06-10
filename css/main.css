@@ -2,11 +2,16 @@
 body, html {
   height: 100vh;
 }
+
+p {
+  font-family: 'Oswald', sans-serif;
+}
 .nav-wrapper {
   /* padding-left: 20%;
   padding-right: 20%; */
   background: #E16860;
 }
+
 
 .hero_image {
   height: 50vh;
@@ -35,7 +40,7 @@ body, html {
 
 .tagline_font {
   font-family: 'Pacifico', cursive;
-  color: #E16860;
+  color: #E16860 !important;
   font-size: 1.9em;
 }
 
@@ -102,6 +107,18 @@ body, html {
 .para_content {
   font-size: 1.5em;
 }
+
+/* footer css */
+
+.color {
+  background: #E16860
+}
+
+.white {
+  color: white;
+}
+
+/* footer ends here   */
 
 
 @-webkit-keyframes chevron-pulse {
