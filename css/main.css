@@ -93,6 +93,9 @@ p {
 .height_300 {
   height: 300px;
 }
+.height_200 {
+  height: 200px;
+}
 .center_grid {
   display: grid;
   justify-content: center;
