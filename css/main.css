@@ -3,8 +3,13 @@ body, html {
   height: 100vh;
 }
 
+
 p {
   font-family: 'Oswald', sans-serif;
+}
+
+.padding_4ems {
+  padding-top: .4em;
 }
 .nav-wrapper {
   /* padding-left: 20%;
@@ -14,8 +19,8 @@ p {
 
 
 .hero_image {
-  height: 50vh;
   background: #F4F2F2;
+  padding-bottom:5vh;
 }
 
 .woco_logo {
@@ -55,17 +60,27 @@ p {
 }
 
 .add_padding_top {
-  padding-top:15vh;
+  padding-top:5vh;
 }
 
-.full_height {
+/* .full_height {
   height: 44.9vh;
-}
+} */
 
 .my_red {
-  background-color: #E16860;
+  /* background-color: #E16860 !important; */
+  background-color: #E16860 !important;
+  color: black !important;
+  font-family: 'Oswald', sans-serif;
+  font-style: bold;
+
 }
 
+.lets {
+  background: #E16860;
+  font-family: 'Oswald', sans-serif;
+  font-style: bold;
+}
 .my_gray {
   background-color: white;
 }
@@ -109,16 +124,24 @@ p {
 
 .para_content {
   font-size: 1.5em;
+  margin-bottom: 3.9em;
 }
 
 /* footer css */
 
 .color {
-  background: #E16860
+  background: #F4F2F2;
 }
 
 .white {
   color: white;
+}
+.footer_color {
+  color: black;
+}
+
+.black_text {
+  color: #232122;
 }
 
 /* footer ends here   */
