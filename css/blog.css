@@ -39,6 +39,14 @@ a {
   background-color: #E16860;
 }
 
+.margin_bottom_article {
+  margin-bottom: 1em;
+}
+
+.padding_for_icons {
+  padding-top: 1em;
+}
+
 /* .black {
   background: black;
   height: 100%;
@@ -90,7 +98,6 @@ a {
 .article_others {
   background: white;
   width: 100%;
-  height: 600px;
   margin-top: 3em;
   padding-top: 3em;
 }
