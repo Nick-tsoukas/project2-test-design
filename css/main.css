@@ -120,6 +120,10 @@ p {
 
 /* footer ends here   */
 
+.divider {
+  height: 2px !important;
+  color: #E16860 !important;
+}
 
 @-webkit-keyframes chevron-pulse {
   0% {
